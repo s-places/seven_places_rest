@@ -1,0 +1,61 @@
+This project with great thanks for all authors (information about authors could be find in the sites linked in list below) uses following components with following licenses:
+
+openjdk https://github.com/openjdk/jdk/blob/master/LICENSE
+
+maven https://github.com/apache/maven/blob/master/LICENSE
+
+spring-boot-starter-data-mongodb https://github.com/spring-projects/spring-data-mongodb/blob/main/LICENSE.txt
+
+spring-boot-starter-data-rest https://github.com/spring-projects/spring-data-rest/blob/main/LICENSE.txt
+
+spring-data-rest-hal-explorer https://github.com/spring-projects/spring-data-rest/blob/main/LICENSE.txt
+
+spring-boot-devtools https://github.com/spring-projects/spring-boot/blob/main/LICENSE.txt
+
+spring-boot-starter-test https://github.com/spring-projects/spring-boot/blob/main/LICENSE.txt
+
+lombok https://github.com/projectlombok/lombok/blob/master/LICENSE
+
+spring-boot-maven-plugin https://www.apache.org/licenses/LICENSE-2.0.txt
+
+Also great thanks for samples of docker's config to all authors which listed below and have source files under following licenses:
+
+wiamsuri/django-gunicorn-nginx-docker https://github.com/wiamsuri/django-gunicorn-nginx-docker/blob/master/LICENSE.txt
+
+balanpradeepkumar/docker_django_mongodb https://github.com/balanpradeepkumar/docker_django_mongodb/blob/master/LICENSE
+
+Text materials from Wikipedia licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License (CC BY-SA 3.0) https://creativecommons.org/licenses/by/3.0/deed.en:
+
+https://en.wikipedia.org/wiki/Sydney
+
+https://en.wikipedia.org/wiki/Tokyo
+
+https://en.wikipedia.org/wiki/Cairo
+
+https://en.wikipedia.org/wiki/Moscow
+
+https://en.wikipedia.org/wiki/Mexico_City
+
+https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+
+https://en.wikipedia.org/wiki/McMurdo_Station
+
+McMurdo station images  Alan Light (https://www.flickr.com/photos/alan_light/) licensed under Creative Commons Attribution 2.0 Generic license  (CC BY 2.0) https://creativecommons.org/licenses/by/2.0/
+
+Other images from Pixabay.com  under Pixabay License. https://pixabay.com/service/license/
+
+All content from this project summury licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License (CC BY-SA 3.0)
+
+For deploying to Heroku was used this buildpacks under following lisences:
+
+mars/create-react-app-buildpack  https://github.com/mars/create-react-app-buildpack/blob/master/LICENSE
+
+heroku/heroku-buildpack-python  https://github.com/heroku/heroku-buildpack-python/blob/main/LICENSE
+
+docker https://github.com/docker/docker.github.io/blob/master/LICENSE
+
+mongo https://github.com/mongodb/mongo/blob/master/LICENSE-Community.txt
+
+docker-node https://github.com/nodejs/docker-node https://github.com/nodejs/docker-node/blob/main/LICENSE
+
+nodejs https://github.com/nodejs/node/blob/master/LICENSE
